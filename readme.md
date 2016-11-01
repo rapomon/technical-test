@@ -1,11 +1,11 @@
-## Prueba técnica Anfix
-## Raúl Polanco Montiel
+## Prueba tÃ©cnica
+## RaÃºl Polanco Montiel
 
-## Instalación
+## InstalaciÃ³n
 
 	npm install
 
-## Configurar antes la conexión con la BBDD en app.js
+## Configurar antes la conexiÃ³n con la BBDD en app.js
 
 	host: 'localhost',
 	user: 'root',
@@ -15,7 +15,7 @@
 
 Crear BBDD 'demo_clientes' y ejecutar en ella el script clientes.sql
 
-## Ejecución
+## EjecuciÃ³n
 
 	npm start
 
