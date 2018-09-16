@@ -21,7 +21,7 @@
     "react": "^15.0.1",
     "react-dom": "^15.0.1",
     "react-tap-event-plugin": "^1.0.0",
-    "ejs": "^1.0.0",
+    "ejs": "^2.5.5",
     "express": "3.5.1",
     "express-myconnection": "1.0.4",
     "jade": "*",
